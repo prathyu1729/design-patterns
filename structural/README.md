@@ -1,0 +1,1 @@
+These patterns are concerned with object relationships and the structure of classes or objects. They help to add new functionality without having to modify the entire system.

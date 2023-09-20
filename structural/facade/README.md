@@ -1,0 +1,1 @@
+Provides a simpler interface that hides the complex functionalities of a system.

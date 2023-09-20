@@ -1,0 +1,1 @@
+This pattern is used when we need to extend or modify the existing behavior without altering the core functionality

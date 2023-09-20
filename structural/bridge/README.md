@@ -1,0 +1,1 @@
+It keeps an object’s interface separate from its implementation, allowing the two to vary independently.When creating database connectivity libraries, you can use the Bridge pattern to separate the database-specific code

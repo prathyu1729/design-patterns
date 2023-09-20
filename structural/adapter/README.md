@@ -1,0 +1,2 @@
+The Adapter pattern allows classes that have different interfaces (properties/methods of an object) to work together.
+This pattern is useful if an API is modified or new implementations are added to it. In this case, if the other parts of a system are still using the old API, the Adapter pattern will translate the interface so that the two can work together.
