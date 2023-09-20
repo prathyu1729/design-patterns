@@ -1,0 +1,1 @@
+The Iterator pattern is a behavioral design pattern that provides a way to access elements of a collection sequentially without exposing its underlying representation. It allows you to traverse the elements of a collection (e.g., an array, list, or tree) without needing to know the specific structure of that collection. 

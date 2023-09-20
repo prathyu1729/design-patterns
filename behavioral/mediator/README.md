@@ -1,0 +1,3 @@
+It is a behavioral pattern that allows a mediator (a central authority) to act as the coordinator between different objects instead of the objects referring to each other directly. A mediator, as the name implies, is a central authority through which various components can communicate. It allows the loose coupling of objects.
+
+A real-life example is a chat application. Here, the chat box acts as the mediator through which various users interact with one another.
