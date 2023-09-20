@@ -1,0 +1,1 @@
+It is similar to factory pattern. But here there is no factory involved.The object creation is not encapsulated to a factory

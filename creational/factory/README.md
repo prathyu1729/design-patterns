@@ -1,0 +1,2 @@
+Creational pattern that provides a template that can be used to create objects. It is used in complex situations where the type of the object required varies and needs to be specified in each case
+it provides a generic interface that delegates the object creation responsibility to the corresponding subclass

@@ -1,0 +1,1 @@
+it provides a generic interface that delegates the object creation responsibility to the corresponding subclass

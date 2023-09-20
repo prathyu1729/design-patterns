@@ -1,0 +1,1 @@
+The Prototype pattern is used to instantiate objects with some default values using an existing object. It clones the object and provides the existing properties to the cloned object using prototypal inheritance.
